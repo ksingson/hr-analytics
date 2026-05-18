@@ -35,7 +35,7 @@ hr-analytics/
 
 ## 📊 **Asset Availability & Large File Note:**
 
-💾 **Data & Power BI Asset Note:** The raw workforce dataset (millions of records) and the finalized Power BI dashboard file (`.pbix`) exceed GitHub's 100MB file limit. 
+💾 **Data & Power BI Asset Note:** The raw workforce dataset (millions of records) and the finalized Power BI dashboard file (`.pbix`) exceed GitHub's 25MB file limit. 
 
 **Raw Dataset:** The source data contains millions of records and is externally hosted. You can access and download it directly from the original [HR Dataset](https://www.kaggle.com/datasets/rashadalaa/hr-dataset-clean-and-raw-2m-rows).
 
