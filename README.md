@@ -36,6 +36,16 @@ hr-analytics/
 
 ---
 
+## 📁 Dataset
+
+- Source: Raw `.csv` file
+
+- Original Data Source: [HR Dataset](https://www.kaggle.com/datasets/rashadalaa/hr-dataset-clean-and-raw-2m-rows)
+
+Data cleaned using **Pandas in Python Jupyter Notebook**.
+
+---
+
 ## 🏗️ Architecture & Data Pipeline
 The project follows a standard three-tier data architecture to ensure data integrity and dashboard performance:
 
