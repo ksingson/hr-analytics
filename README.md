@@ -40,7 +40,7 @@ The project follows a standard three-tier data architecture to ensure data integ
 ---
 
 ## 🛠️ Tech Stack & Skills Showcased
-* **Languages:** Python (Pandas, NumPy), SQL
+* **Languages:** Python (NumPy, Pandas, SQLAlchemy), SQL
 * **BI & Analytics:** Power BI Desktop, DAX (Data Analysis Expressions)
 * **Methodologies:** Data Modeling (Star Schema/Flat-Table Optimization), ETL/ELT Pipelines, Quantitative HR Research, Portfolio Governance
 
