@@ -19,9 +19,9 @@ hr-analytics/
 │   └── hr_analytics.pbix
 │
 ├── scripts/
-│   ├── data_cleaning_pandas.ipynb
 │   ├── create_schema.sql
-│   └── create_views.sql
+│   ├── create_views.sql
+│   └── data_cleaning_pandas.ipynb
 │
 ├── images/
 │   ├── 01_overview.png
