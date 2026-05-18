@@ -12,8 +12,8 @@ By combining **Python** for robust data engineering, **SQL** for centralized dat
 ```text
 hr-analytics/
 │
-├── raw/
-│   └── hr_raw.csv
+├── data/
+│   └── workforce_data_sample.csv
 │
 ├── dashboard/
 │   └── hr_analytics.pbix
@@ -36,13 +36,15 @@ hr-analytics/
 
 ---
 
-## 📁 Dataset
+## 📊 **Asset Availability & Large File Note:**
 
-- Source: Raw `.csv` file
+💾 **Data & Power BI Asset Note:** The raw workforce dataset (millions of records) and the finalized Power BI dashboard file (`.pbix`) exceed GitHub's 100MB file limit. 
 
-- Original Data Source: [HR Dataset](https://www.kaggle.com/datasets/rashadalaa/hr-dataset-clean-and-raw-2m-rows)
+**Raw Dataset:** The source data contains millions of records and is externally hosted. You can access and download it directly from the original [HR Dataset](https://www.kaggle.com/datasets/rashadalaa/hr-dataset-clean-and-raw-2m-rows).
 
-Data cleaned using **Pandas in Python Jupyter Notebook**.
+**View the Dashboard:** You can download the full Power BI file [hr_analytics](https://drive.google.com/drive/folders/1eET3zE6CUjtyRJpHm4TFIUP7_tSYbzvN).
+
+**Sample Data:** A truncated sample of the dataset (first 10,000 rows) is available in the `/data` directory for pipeline testing.
 
 ---
 
