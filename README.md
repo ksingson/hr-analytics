@@ -23,6 +23,12 @@ hr-analytics/
 │   ├── create_schema.sql
 │   └── create_views.sql
 │
+├── images/
+│   ├── 01_overview.png
+│   ├── 02_compensation.png
+│   ├── 03_attrition.png
+│   └── 04_data-quality.png
+│
 └── dax_measure.md
 │
 └── README.md
