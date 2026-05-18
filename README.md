@@ -15,9 +15,6 @@ hr-analytics/
 ├── data/
 │   └── workforce_data_sample.csv
 │
-├── dashboard/
-│   └── hr_analytics.pbix
-│
 ├── scripts/
 │   ├── create_schema.sql
 │   ├── create_views.sql
