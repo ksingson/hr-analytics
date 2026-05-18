@@ -23,6 +23,8 @@ hr-analytics/
 │   ├── create_schema.sql
 │   └── create_views.sql
 │
+└── dax_measure.md
+│
 └── README.md
 ```
 
